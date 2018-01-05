@@ -1,0 +1,15 @@
+{
+  "pages":[
+    "pages/index/index",
+    "pages/logs/logs"
+  ],
+  "window":{
+    "enablePullDownRefresh":"true",
+    "backgroundColor":"#000000",
+    "backgroundTextStyle":"dark",
+    "navigationBarBackgroundColor": "#ffffff",
+    "navigationBarTitleText": "晴妈 · 儿童美食",
+    "navigationBarTextStyle":"black",
+    "onReachBottomDistance":"50"
+  }
+}
